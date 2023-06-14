@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(8deg, rgba(217,107,192,1) 0%, rgba(211,107,218,1) 71%, rgba(209,107,226,1) 93%);
+}
+
+.nav-link:hover{
+    transform:scale(120%);
+}
+
+.card{
+    background:  rgba(217,107,192,1);
+}
+
+.card-body{
+    background:  rgba(217,107,192,1);
+}
